@@ -2,6 +2,7 @@ import io
 import sys
 
 from app import app
+from flask import Flask
 
 class TestApp:
     '''Flask application in flask_app.py'''
